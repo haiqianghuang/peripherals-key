@@ -1,0 +1,23 @@
+SpacemiT peripherals/key Component
+Copyright 2026 SpacemiT (Hangzhou) Technology Co. Ltd.
+
+This product includes software developed at
+SpacemiT (Hangzhou) Technology Co. Ltd. (https://www.spacemit.com/).
+
+---------------------------------------------------------------------------
+Third-party Software Notices:
+---------------------------------------------------------------------------
+
+This product contains portions of the following third-party software:
+
+1. libgpiod (https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git/)
+   Copyright (c) 2017-2024 Bartosz Golaszewski and contributors
+   Licensed under the LGPL-2.1 License.
+
+
+---------------------------------------------------------------------------
+Additional Attributions:
+---------------------------------------------------------------------------
+
+This product uses components of the ROS 2 project (https://www.ros.org/).
+Copyright (c) 2014-2026 Open Source Robotics Foundation, Inc.

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>key</name>
+  <version>0.1.0</version>
+  <description>GPIO key and button input via libgpiod</description>
+  <system_depend check="pkg-config --exists libgpiod">libgpiod-dev</system_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
